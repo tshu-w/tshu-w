@@ -10,8 +10,8 @@
 
 - 🧑🏻‍🎓 PhD candidate at UCAS
 - 🔭 Currently interested in Entity Resolution
-- 🛠 macOS & Emacs & ZSH
-- 🚧 Under construction...
+- 🛠 macOS & Emacs & ZSH & Rime
+- 🔑 [GPG Public Key](https://github.com/tshu-w/dotfiles/blob/main/config/gnupg/public.asc)
 
 <details>
 
