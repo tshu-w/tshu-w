@@ -9,7 +9,7 @@
 
 
 - 🧑🏻‍🎓 PhD candidate at UCAS
-- 🔭 Currently interested in Entity Resolution
+- 🔭 Currently interested in LLM for Entity Resolution and Database
 - 🛠 macOS & Emacs & ZSH & Rime
 - 🔑 [GPG Public Key](https://github.com/tshu-w/dotfiles/blob/main/config/gnupg/public.asc)
 
