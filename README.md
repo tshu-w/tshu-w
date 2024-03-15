@@ -12,10 +12,6 @@
 - 🛠 macOS & Emacs & ZSH & Rime
 - 🔑 [GPG Public Key](https://github.com/tshu-w/dotfiles/blob/main/config/gnupg/public.asc)
 
-<details>
-
-<summary>GitHub Stats</summary>
+#### GitHub Stats
 
 ![Tianshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshu-w&show_icons=true&theme=buefy&count_private=true)
-  
-</details>
