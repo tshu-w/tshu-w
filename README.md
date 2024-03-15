@@ -8,7 +8,7 @@
 
 
 - 🧑🏻‍🎓 PhD candidate at UCAS
-- 🔭 Currently interested in LLM for Database (Entity Resolution and Data Analytics)
+- 🔭 Currently interested in LLM for Data Science (Entity Resolution and Data Analytics)
 - 🛠 macOS & Emacs & ZSH & Rime
 - 🔑 [GPG Public Key](https://github.com/tshu-w/dotfiles/blob/main/config/gnupg/public.asc)
 
