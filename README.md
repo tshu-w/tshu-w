@@ -14,4 +14,4 @@
 
 #### GitHub Stats
 
-![Tianshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshu-w&show_icons=true&theme=buefy&count_private=true)
+![Tianshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshu-w&hide_title=true&show_icons=true&theme=shadow_red&count_private=true)
