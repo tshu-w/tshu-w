@@ -5,8 +5,6 @@
 [![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/tshu_w)
 [![](https://komarev.com/ghpvc/?username=tshu-w&color=blueviolet&style=flat-square)]()
 
-
-
 - 🧑🏻‍🎓 PhD candidate at UCAS
 - 🔭 Currently interested in LLM for Data Science (Entity Resolution and Data Analytics)
 - 🛠 macOS & Emacs & ZSH & Rime
@@ -17,3 +15,5 @@
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
+
+---
