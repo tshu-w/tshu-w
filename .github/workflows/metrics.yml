@@ -17,7 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -26,11 +25,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: tshu-w
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          config_display: columns
           config_timezone: Asia/Shanghai
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -55,7 +56,6 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_notable: yes
-          plugin_notable_from: all
+          plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_support: yes
-          plugin_traffic: yes
+          repositories_batch: 200
