@@ -60,7 +60,7 @@ jobs:
           plugin_lines_sections: base
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_indepth: yes
+          plugin_notable_indepth: no
           plugin_notable_self: yes
           plugin_notable_types: commit
           plugin_traffic: yes
