@@ -9,7 +9,7 @@
 - 🔭 Currently interested in LLM for Data Intelligence (Entity Resolution, Structured Text Retrieval, Text2SQL, etc.)
 - 🛠 macOS & Emacs & ZSH & Rime
 - 🔐 [GPG Public Key](https://github.com/tshu-w/dotfiles/blob/main/config/gnupg/public.asc)
-- 📄 [CV](https://files.tianshu.me/cv/en.pdf) ([中文版简历](https://files.tianshu.me/cv/zh.pdf))
+- 📄 [CV](https://files.tianshu.me/cv/en.pdf) ([中文版](https://files.tianshu.me/cv/zh.pdf))
 
 #### GitHub Stats
 
