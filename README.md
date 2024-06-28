@@ -5,10 +5,11 @@
 [![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/tshu_w)
 [![](https://komarev.com/ghpvc/?username=tshu-w&color=blueviolet&style=flat-square)]()
 
-- 🧑🏻‍🎓 PhD candidate at UCAS
-- 🔭 Currently interested in LLM for Data Intelligence (Entity Resolution, Text-to-SQL, etc.)
+- 🎓 PhD candidate at UCAS
+- 🔭 Currently interested in LLM for Data Intelligence (Entity Resolution, Structured Text Retrieval, Text2SQL, etc.)
 - 🛠 macOS & Emacs & ZSH & Rime
-- 🔑 [GPG Public Key](https://github.com/tshu-w/dotfiles/blob/main/config/gnupg/public.asc)
+- 🔐 [GPG Public Key](https://github.com/tshu-w/dotfiles/blob/main/config/gnupg/public.asc)
+- 📄 [CV](https://files.tianshu.me/cv/en.pdf) ([中文版简历](https://files.tianshu.me/cv/zh.pdf))
 
 #### GitHub Stats
 
