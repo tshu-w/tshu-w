@@ -6,7 +6,7 @@
 [![](https://komarev.com/ghpvc/?username=tshu-w&color=blueviolet&style=flat-square)]()
 
 - 🎓 PhD candidate at UCAS
-- 🔭 Currently interested in LLM for Data Integration (Entity Resolution, Structured Text Retrieval, Text2SQL, etc.)
+- 🔭 Currently interested in LLM for Data Integration (Entity Resolution, Generative/Structured Text Retrieval, Text2SQL, etc.)
 - 🛠 macOS & Emacs & ZSH & Rime
 - 🔐 [GPG Public Key](https://github.com/tshu-w/dotfiles/blob/main/config/gnupg/public.asc)
 - 📄 [CV](https://files.tianshu.me/cv/en.pdf) ([中文版](https://files.tianshu.me/cv/zh.pdf))
