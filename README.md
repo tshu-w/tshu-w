@@ -5,8 +5,8 @@
 [![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/tshu_w)
 [![](https://komarev.com/ghpvc/?username=tshu-w&color=blueviolet&style=flat-square)]()
 
-- 🎓 PhD candidate @ UCAS
-- 🔭 Currently interested in LLM Reasoning, Data Integration, AI Memory etc.
+- 🎓 Ph.D., UCAS (2025)
+- 🔭 Currently interested in Agentic LLM, AI Memory, Data Integration, etc.
 - 🏆 Best Paper Runner-up & Area Chair Award
 - ⌨️ Ex-Competitive Programmer
 - 🧠 ADHD & ASD
