@@ -10,7 +10,7 @@
 - 🏆 Best Paper Runner-up & Area Chair Award
 - ⌨️ Ex-Competitive Programmer
 - 🧠 ADHD & ASD
-- 🛠 macOS & Emacs & ZSH & Rime
+- 🛠 macOS & pi-mono & Emacs & ZSH & Rime
 - 🔐 [GPG Public Key](https://github.com/tshu-w/dotfiles/blob/main/config/gnupg/public.asc)
 - 📄 [CV](https://files.tianshu.me/cv/en.pdf) ([中文版](https://files.tianshu.me/cv/zh.pdf))
 
