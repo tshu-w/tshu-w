@@ -16,8 +16,9 @@
 
 #### Maintaining
 
-- [**dotfiles**](https://github.com/tshu-w/dotfiles) — macOS / Emacs / ZSH / Rime configs
+- [**agentd**](https://github.com/tshu-w/agentd) — Local daemon for durable CLI agents
 - [**pi-control**](https://github.com/tshu-w/pi-control) — Pi extension giving agents runtime self-control
+- [**dotfiles**](https://github.com/tshu-w/dotfiles) — macOS / Emacs / ZSH / Rime configs
 - [**.emacs.d**](https://github.com/tshu-w/.emacs.d) — Personal Emacs config
 - [**homebrew-malt**](https://github.com/tshu-w/homebrew-malt) — A flavored Homebrew tap
 
