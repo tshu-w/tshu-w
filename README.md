@@ -16,8 +16,9 @@
 
 #### Maintaining
 
-- [**agentd**](https://github.com/tshu-w/agentd) — Local daemon for durable CLI agents
+- [**pi-agents**](https://github.com/tshu-w/pi-agents) — Multi-agent runtime for Pi
 - [**pi-control**](https://github.com/tshu-w/pi-control) — Pi extension giving agents runtime self-control
+- [**pi-tape**](https://github.com/tshu-w/pi-tape) — Tape-style context management for Pi
 - [**dotfiles**](https://github.com/tshu-w/dotfiles) — macOS / Emacs / ZSH / Rime configs
 - [**.emacs.d**](https://github.com/tshu-w/.emacs.d) — Personal Emacs config
 - [**homebrew-malt**](https://github.com/tshu-w/homebrew-malt) — A flavored Homebrew tap
